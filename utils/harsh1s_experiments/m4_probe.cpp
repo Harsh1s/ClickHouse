@@ -37,6 +37,7 @@ constexpr Case kCases[] = {
     {"2025-12-03", 906255u},
     {"2025-12-14", 542559u},
     {"2025-12-16", 898034u},
+    {"2025-12-20", 211466u},
 };
 
 constexpr std::size_t case_count() { return sizeof(kCases) / sizeof(kCases[0]); }
